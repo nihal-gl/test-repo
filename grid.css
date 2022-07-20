@@ -1,0 +1,27 @@
+.parent{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 100px 300px 200px;
+    gap: 3px;
+
+}
+
+
+.c11{
+    background-color: aqua;
+}
+.c12{
+    background-color: yellow;
+}
+.c21{
+    background-color: pink;
+}
+.c22{
+    background-color: skyblue;
+}
+.c31{
+    background-color: orange;
+}
+.c32{
+    background-color: greenyellow;
+}
